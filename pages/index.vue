@@ -27,20 +27,8 @@
       <tested-cases-details-card />
       <confirmed-cases-attributes-card />
       <confirmed-cases-number-card />
-      <inspection-persons-number-card />
-      <tested-number-card />
-      <telephone-advisory-reports-number-card />
-      <consultation-desk-reports-number-card />
-      <metro-card />
-      <agency-card />
-      <shinjuku-visitors-card />
-      <chiyoda-visitors-card />
     </v-row>
     <v-divider />
-    <v-row class="DataBlock">
-      <shinjuku-st-map-card />
-      <tokyo-st-map-card />
-    </v-row>
   </div>
 </template>
 
